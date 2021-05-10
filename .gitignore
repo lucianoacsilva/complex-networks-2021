@@ -1,0 +1,4 @@
+data
+*.eps
+.vscode
+.ipynb_checkpoints
